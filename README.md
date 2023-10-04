@@ -4,7 +4,7 @@ Just like to sleep. Sometimes also do something I like.
 
 Keep practicing.
 
-[Luogu]([https://api.jerryz.com.cn/practice?id=768239&dark_mode=true](https://www.luogu.com.cn/user/768239))
+[My Luogu profile](https://www.luogu.com.cn/user/768239)
 
 ## Contact me:
 ce5dmejko@mozmail.com
